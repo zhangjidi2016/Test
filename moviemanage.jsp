@@ -1,3 +1,4 @@
+
 <%--
   Created by IntelliJ IDEA.
   User: 53804
@@ -264,6 +265,10 @@
         });
         return bRes;
     }
+  </script>
+  <script>
+       $(function(){
+	   });
   </script>
 </div>
 </body>
